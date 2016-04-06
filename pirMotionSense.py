@@ -1,5 +1,5 @@
 #/usr/bin/Python3
-#Title: pirTest3.py
+#Title: pirMotionSense.py
 #Author: Bardic Knowledge
 #Version: 0.2a
 # Added timestamping to logging, and an exception handler for keyboard interrupts
